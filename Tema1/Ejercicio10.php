@@ -11,8 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","<br>";
-        echo "&nbsp","&nbsp","&nbsp","&nbsp"," ***","<br>";
+        echo "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","<br>";
+        echo "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," ***","<br>";
         echo "&nbsp","&nbsp","&nbsp"," *****","<br>";
         echo "&nbsp", " *******","<br>";
         echo "*********","<br>";
