@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","<br>";
-        echo  "&nbsp","&nbsp","&nbsp","&nbsp"," *","&nbsp","&nbsp","&nbsp","*","<br>";
+        echo  "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","&nbsp","&nbsp","*","<br>";
         echo "&nbsp","&nbsp","&nbsp"," *","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","<br>";
         echo "&nbsp", " *","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","*","<br>";
         echo "*********","<br>";
