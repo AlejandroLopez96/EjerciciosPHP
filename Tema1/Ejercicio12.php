@@ -14,7 +14,7 @@ and open the template in the editor.
         echo "*********","<br>";
         echo "&nbsp", " *","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","*","<br>";
         echo "&nbsp","&nbsp","&nbsp"," *","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","<br>";
-        echo  "&nbsp","&nbsp","&nbsp","&nbsp"," *","&nbsp","&nbsp","&nbsp","*","<br>";
+        echo  "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","&nbsp","&nbsp","*","<br>";
         echo "&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp","&nbsp"," *","<br>";
         ?>
     </body>
