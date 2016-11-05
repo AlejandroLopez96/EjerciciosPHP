@@ -1,0 +1,41 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+
+#productos{   
+    float: left; 
+    width: 49%;
+    background-color: aqua;
+    text-align: center;
+    margin-bottom: 1%;
+    box-shadow: inset 0px 0px 10px black;
+}
+.productoIndividual{
+    padding-bottom: 5%;
+    padding-right: 6%;
+    display: inline-block;
+}
+#carrito{ 
+    margin-left:50%;
+    width: 49%;
+    background-color: aqua;
+    text-align: center;
+    padding-bottom: 2%;
+    box-shadow: inset 0px 0px 10px black;
+    /*position: fixed;*/
+}
+
+.icon{
+    width: 70px;
+    height: 60px;
+}
+
+.divIcon{
+    text-align: center;
+}
+
