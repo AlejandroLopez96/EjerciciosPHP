@@ -16,6 +16,7 @@
       <br><h3>Contenido</h3>
       <textarea name="contenido" cols="60" rows="6"><?=$datosArticulo->getContenido()?></textarea>
       <input type="hidden" name="id" value="<?=$datosArticulo->getId()?>">
+      <input type="hidden" name="autor" value="<?=$datosArticulo->getAutor()?>">
       <button type="submit" class="success button">Enviar</button>
     </form>
         </div>

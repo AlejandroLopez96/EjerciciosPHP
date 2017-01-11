@@ -17,7 +17,7 @@
       <textarea name="contenido" cols="60" rows="6"></textarea>
       
       <br><h3>Autor</h3>
-      <input type="text" size="40" name="titulo">
+      <input type="text" size="40" name="autor">
       <!--<input type="submit" value="Enviar">-->
       <button type="submit" class="success button">Enviar</button>
     </form>
