@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+{% block listado %}
+    <p style="text-align: center;"><a class="button primary" href="../Controller/nuevoArticulo.php">Añadir</a></p>
+<div class="row medium-8 large-7 columns">
+    {% for articulo in articulos %}
+<div class="blog-post">
+<h3>{{ articulo.titulo }} <small>{{ articulo.fecha}}</small></h3>
+<p>{{ articulo.contenido }}</p>
+<p style="text-align: center;"><a class="button alert" href="../Controller/borraArticulo.php?id={{ articulo.id }}">Borrar Articulo</a><a class="button warning " href="../Controller/modificacionArticulo.php?id={{ articulo.id }}">Modificar Articulo</a></p>
+<div class="callout">
+<ul class="menu simple">
+<li><a href="#">Author: {{ articulo.autor }}</a></li>
+</ul>
+</div>
+</div>
+    {% endfor %}
+{% endblock %}
